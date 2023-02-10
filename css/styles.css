@@ -1,0 +1,16 @@
+/*estilos de nosotros*/
+/*trabajo con etiquetas padre*/
+.header-nosotros {
+  background-color: tomato;
+  display: flex;
+  justify-content: center; }
+  .header-nosotros h1 {
+    color: black;
+    text-transform: uppercase; }
+  .header-nosotros nav {
+    background-color: violet; }
+    .header-nosotros nav ul {
+      display: flex;
+      justify-content: center; }
+      .header-nosotros nav ul li {
+        color: white; }
